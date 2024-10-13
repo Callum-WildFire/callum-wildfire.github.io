@@ -4,3 +4,5 @@
 
 layout: home
 ---
+Hi, my name is Callum. Welcome to my site.
+I post about AI in education and training. And other things I find interesting.
